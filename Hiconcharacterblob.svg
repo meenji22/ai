@@ -1,0 +1,25 @@
+<svg width="800" height="554" viewBox="0 0 800 554" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_67_4843)">
+<rect width="800" height="554" fill="#DBF86E"/>
+<path d="M615.959 189.801C681.648 170.029 750.929 207.252 770.701 272.941L826.393 457.96C846.165 523.649 808.943 592.93 743.254 612.702C706.11 623.883 667.82 616.838 637.979 596.731C624.1 630.005 595.981 657.03 558.764 668.233C492.783 688.094 423.194 650.706 403.334 584.725L347.96 400.763C328.1 334.782 365.489 265.194 431.47 245.333C468.687 234.131 507.051 241.144 536.992 261.228C550.775 227.99 578.817 200.981 615.959 189.801Z" fill="#DBCDFF"/>
+<circle cx="518.077" cy="412.398" r="66.7985" transform="rotate(-16.7519 518.077 412.398)" fill="white"/>
+<circle cx="634.375" cy="377.393" r="66.7985" transform="rotate(-16.7519 634.375 377.393)" fill="white"/>
+<mask id="mask0_67_4843" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="451" y="345" width="134" height="135">
+<circle cx="518.077" cy="412.398" r="66.7985" transform="rotate(-16.7519 518.077 412.398)" fill="white"/>
+</mask>
+<g mask="url(#mask0_67_4843)">
+<circle cx="471.61" cy="424.656" r="32.0191" transform="rotate(-16.7519 471.61 424.656)" fill="black"/>
+</g>
+<mask id="mask1_67_4843" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="567" y="310" width="135" height="135">
+<circle cx="634.375" cy="377.393" r="66.7985" transform="rotate(-16.7519 634.375 377.393)" fill="white"/>
+</mask>
+<g mask="url(#mask1_67_4843)">
+<circle cx="587.907" cy="389.65" r="32.0191" transform="rotate(-16.7519 587.907 389.65)" fill="black"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_67_4843">
+<rect width="800" height="554" fill="white"/>
+</clipPath>
+</defs>
+</svg>
